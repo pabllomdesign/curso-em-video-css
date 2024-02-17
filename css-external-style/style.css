@@ -1,0 +1,11 @@
+/* CSS external style: Os estilos externos são a base para um desenvolvimento web eficiente e profissional. Ao centralizar os estilos em um único arquivo CSS, você garante organização, reutilização e flexibilidade para o seu website. */
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  background-color: blueviolet;
+  color: aliceblue;
+  padding: 5px;
+}
